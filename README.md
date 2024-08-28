@@ -19,7 +19,11 @@ Este projeto tem como objetivo criar uma Landing page, com elementos interativos
 ## ✏️ Aprendizado
 Com a enriquecedora experiência de aprendizado através do curso [Dev Quest](https://www.youtube.com/@DevemDobro), venho adquirindo novas habilidades e evoluindo no mundo da programação, habilidades essas que serão aplicadas em novo projetos.
 
-## Contato
+## 🔗 Link para acesso ao projeto
+https://wesleysword.github.io/aula-landing-page/
+
+
+## 📞 Contato
 Para mais informações, através do email: 📧 wesleymaru0@gmail.com
 
 Ou pelo linkedin: 🔗 www.linkedin.com/in/wesley-oliveira-santos
